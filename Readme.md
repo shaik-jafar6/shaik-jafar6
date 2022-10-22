@@ -5,3 +5,10 @@ Obesity and being overweight are major concerns for many people living in the US
 ![alt text](https://github.com/shaik-jafar6/shaik-jafar6/blob/main/Picture1.png?raw=true)
 
 
+## Team Composition
+Product Owner/Scrum Master: Meghana Mittameedi
+Frontend Developer: Ramya Vummaneni
+Integration/Backend Developer: Jafar Sharif Shaik
+
+
+## Meetings
