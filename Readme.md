@@ -26,3 +26,8 @@ Integration/Backend Developer: Jafar Sharif Shaik
 
 
 ## Meetings
+
+Monday 3:00 pm to 4:30 pm
+
+Friday 11:00 am to 12:30 pm
+
