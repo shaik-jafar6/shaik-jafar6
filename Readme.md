@@ -7,8 +7,10 @@ Obesity and being overweight are major concerns for many people living in the US
 
 ## Team Composition
 Product Owner/Scrum Master: Meghana Mittameedi
-\ Frontend Developer: Ramya Vummaneni
-\ Integration/Backend Developer: Jafar Sharif Shaik
+
+Frontend Developer: Ramya Vummaneni
+
+Integration/Backend Developer: Jafar Sharif Shaik
 
 
 ## Meetings
