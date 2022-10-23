@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "sugar_g": 0.9,
+            "fiber_g": 0.6,
+            "serving_size_g": 100,
+            "sodium_mg": 30,
+            "name": "chicken curry",
+            "potassium_mg": 96,
+            "fat_saturated_g": 0.6,
+            "fat_total_g": 4.6,
+            "calories": 106.3,
+            "cholesterol_mg": 31,
+            "protein_g": 12.1,
+            "carbohydrates_total_g": 3.2
+        }
+    ]
+}
